@@ -1,4 +1,4 @@
-module github.com/einfachnuralex/gosecret
+module github.com/einfachnuralex/keesecret
 
 go 1.17
 

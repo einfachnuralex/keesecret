@@ -5,6 +5,12 @@ go 1.17
 require (
 	github.com/ktr0731/go-fuzzyfinder v0.6.0
 	github.com/ppacher/go-dbus-keyring v1.0.1
+	github.com/spf13/cobra v1.4.0
+)
+
+require (
+	github.com/inconshreveable/mousetrap v1.0.0 // indirect
+	github.com/spf13/pflag v1.0.5 // indirect
 )
 
 require (
